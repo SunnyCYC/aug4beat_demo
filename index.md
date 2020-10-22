@@ -8,61 +8,73 @@ Beat/downbeat tracking have been fundamental and important topics in music infor
 ## Demo audio
 
 #### MIDI-Unprocessed_04_R1_2006_01-04_ORIG_MID--AUDIO_04_R1_2006_04_Track04_wav 
+
 |Original|   Mix   |exMixABSM|exMixOSFQ| 
 |---|---|---|---| 
 |<audio src="Demo_mp3\ori\cut_MIDI-Unprocessed_04_R1_2006_01-04_ORIG_MID--AUDIO_04_R1_2006_04_Track04_wav.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\Mix\cut_MIDI-Unprocessed_04_R1_2006_01-04_ORIG_MID--AUDIO_04_R1_2006_04_Track04_wav_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\excludeMixABSM\cut_MIDI-Unprocessed_04_R1_2006_01-04_ORIG_MID--AUDIO_04_R1_2006_04_Track04_wav_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\excludeMixOSFQ\cut_MIDI-Unprocessed_04_R1_2006_01-04_ORIG_MID--AUDIO_04_R1_2006_04_Track04_wav_click.mp3" controls="" preload=""></audio>| 
 
-#### MIDI-Unprocessed_06_R1_2009_03-07_ORIG_MID--AUDIO_06_R1_2009_06_R1_2009_04_WAV 
+#### MIDI-Unprocessed_06_R1_2009_03-07_ORIG_MID--AUDIO_06_R1_2009_06_R1_2009_04_wav
+
 |Original|   Mix   |exMixABSM|exMixOSFQ| 
 |---|---|---|---| 
 |<audio src="Demo_mp3\ori\cut_MIDI-Unprocessed_06_R1_2009_03-07_ORIG_MID--AUDIO_06_R1_2009_06_R1_2009_04_WAV.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\Mix\cut_MIDI-Unprocessed_06_R1_2009_03-07_ORIG_MID--AUDIO_06_R1_2009_06_R1_2009_04_WAV_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\excludeMixABSM\cut_MIDI-Unprocessed_06_R1_2009_03-07_ORIG_MID--AUDIO_06_R1_2009_06_R1_2009_04_WAV_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\excludeMixOSFQ\cut_MIDI-Unprocessed_06_R1_2009_03-07_ORIG_MID--AUDIO_06_R1_2009_06_R1_2009_04_WAV_click.mp3" controls="" preload=""></audio>| 
 
 #### MIDI-Unprocessed_07_R2_2006_01_ORIG_MID--AUDIO_07_R2_2006_01_Track01_wav 
+
 |Original|   Mix   |exMixABSM|exMixOSFQ| 
 |---|---|---|---| 
 |<audio src="Demo_mp3\ori\cut_MIDI-Unprocessed_07_R2_2006_01_ORIG_MID--AUDIO_07_R2_2006_01_Track01_wav.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\Mix\cut_MIDI-Unprocessed_07_R2_2006_01_ORIG_MID--AUDIO_07_R2_2006_01_Track01_wav_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\excludeMixABSM\cut_MIDI-Unprocessed_07_R2_2006_01_ORIG_MID--AUDIO_07_R2_2006_01_Track01_wav_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\excludeMixOSFQ\cut_MIDI-Unprocessed_07_R2_2006_01_ORIG_MID--AUDIO_07_R2_2006_01_Track01_wav_click.mp3" controls="" preload=""></audio>| 
 
 #### MIDI-Unprocessed_13_R1_2006_01-06_ORIG_MID--AUDIO_13_R1_2006_06_Track06_wav 
+
 |Original|   Mix   |exMixABSM|exMixOSFQ| 
 |---|---|---|---| 
 |<audio src="Demo_mp3\ori\cut_MIDI-Unprocessed_13_R1_2006_01-06_ORIG_MID--AUDIO_13_R1_2006_06_Track06_wav.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\Mix\cut_MIDI-Unprocessed_13_R1_2006_01-06_ORIG_MID--AUDIO_13_R1_2006_06_Track06_wav_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\excludeMixABSM\cut_MIDI-Unprocessed_13_R1_2006_01-06_ORIG_MID--AUDIO_13_R1_2006_06_Track06_wav_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\excludeMixOSFQ\cut_MIDI-Unprocessed_13_R1_2006_01-06_ORIG_MID--AUDIO_13_R1_2006_06_Track06_wav_click.mp3" controls="" preload=""></audio>| 
 
 #### MIDI-UNPROCESSED_14-15_R1_2014_MID--AUDIO_15_R1_2014_wav--5 
+
 |Original|   Mix   |exMixABSM|exMixOSFQ| 
 |---|---|---|---| 
 |<audio src="Demo_mp3\ori\cut_MIDI-UNPROCESSED_14-15_R1_2014_MID--AUDIO_15_R1_2014_wav--5.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\Mix\cut_MIDI-UNPROCESSED_14-15_R1_2014_MID--AUDIO_15_R1_2014_wav--5_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\excludeMixABSM\cut_MIDI-UNPROCESSED_14-15_R1_2014_MID--AUDIO_15_R1_2014_wav--5_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\excludeMixOSFQ\cut_MIDI-UNPROCESSED_14-15_R1_2014_MID--AUDIO_15_R1_2014_wav--5_click.mp3" controls="" preload=""></audio>| 
 
 #### MIDI-Unprocessed_20_R1_2011_MID--AUDIO_R1-D8_04_Track04_wav 
+
 |Original|   Mix   |exMixABSM|exMixOSFQ| 
 |---|---|---|---| 
 |<audio src="Demo_mp3\ori\cut_MIDI-Unprocessed_20_R1_2011_MID--AUDIO_R1-D8_04_Track04_wav.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\Mix\cut_MIDI-Unprocessed_20_R1_2011_MID--AUDIO_R1-D8_04_Track04_wav_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\excludeMixABSM\cut_MIDI-Unprocessed_20_R1_2011_MID--AUDIO_R1-D8_04_Track04_wav_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\excludeMixOSFQ\cut_MIDI-Unprocessed_20_R1_2011_MID--AUDIO_R1-D8_04_Track04_wav_click.mp3" controls="" preload=""></audio>| 
 
 #### MIDI-Unprocessed_04_R1_2006_01-04_ORIG_MID--AUDIO_04_R1_2006_04_Track04_wav 
+
 |Original|   Mix   |exMixABSM|exMixOSFQ| 
 |---|---|---|---| 
 |<audio src="Demo_mp3\ori\cut_MIDI-Unprocessed_04_R1_2006_01-04_ORIG_MID--AUDIO_04_R1_2006_04_Track04_wav.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\Mix\cut_MIDI-Unprocessed_04_R1_2006_01-04_ORIG_MID--AUDIO_04_R1_2006_04_Track04_wav_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\excludeMixABSM\cut_MIDI-Unprocessed_04_R1_2006_01-04_ORIG_MID--AUDIO_04_R1_2006_04_Track04_wav_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\excludeMixOSFQ\cut_MIDI-Unprocessed_04_R1_2006_01-04_ORIG_MID--AUDIO_04_R1_2006_04_Track04_wav_click.mp3" controls="" preload=""></audio>| 
 
 #### MIDI-Unprocessed_06_R1_2009_03-07_ORIG_MID--AUDIO_06_R1_2009_06_R1_2009_04_WAV 
+
 |Original|   Mix   |exMixABSM|exMixOSFQ| 
 |---|---|---|---| 
 |<audio src="Demo_mp3\ori\cut_MIDI-Unprocessed_06_R1_2009_03-07_ORIG_MID--AUDIO_06_R1_2009_06_R1_2009_04_WAV.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\Mix\cut_MIDI-Unprocessed_06_R1_2009_03-07_ORIG_MID--AUDIO_06_R1_2009_06_R1_2009_04_WAV_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\excludeMixABSM\cut_MIDI-Unprocessed_06_R1_2009_03-07_ORIG_MID--AUDIO_06_R1_2009_06_R1_2009_04_WAV_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\excludeMixOSFQ\cut_MIDI-Unprocessed_06_R1_2009_03-07_ORIG_MID--AUDIO_06_R1_2009_06_R1_2009_04_WAV_click.mp3" controls="" preload=""></audio>| 
 
 #### MIDI-Unprocessed_07_R2_2006_01_ORIG_MID--AUDIO_07_R2_2006_01_Track01_wav 
+
 |Original|   Mix   |exMixABSM|exMixOSFQ| 
 |---|---|---|---| 
 |<audio src="Demo_mp3\ori\cut_MIDI-Unprocessed_07_R2_2006_01_ORIG_MID--AUDIO_07_R2_2006_01_Track01_wav.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\Mix\cut_MIDI-Unprocessed_07_R2_2006_01_ORIG_MID--AUDIO_07_R2_2006_01_Track01_wav_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\excludeMixABSM\cut_MIDI-Unprocessed_07_R2_2006_01_ORIG_MID--AUDIO_07_R2_2006_01_Track01_wav_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\excludeMixOSFQ\cut_MIDI-Unprocessed_07_R2_2006_01_ORIG_MID--AUDIO_07_R2_2006_01_Track01_wav_click.mp3" controls="" preload=""></audio>| 
 
 #### MIDI-Unprocessed_13_R1_2006_01-06_ORIG_MID--AUDIO_13_R1_2006_06_Track06_wav 
+
 |Original|   Mix   |exMixABSM|exMixOSFQ| 
 |---|---|---|---| 
 |<audio src="Demo_mp3\ori\cut_MIDI-Unprocessed_13_R1_2006_01-06_ORIG_MID--AUDIO_13_R1_2006_06_Track06_wav.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\Mix\cut_MIDI-Unprocessed_13_R1_2006_01-06_ORIG_MID--AUDIO_13_R1_2006_06_Track06_wav_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\excludeMixABSM\cut_MIDI-Unprocessed_13_R1_2006_01-06_ORIG_MID--AUDIO_13_R1_2006_06_Track06_wav_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\excludeMixOSFQ\cut_MIDI-Unprocessed_13_R1_2006_01-06_ORIG_MID--AUDIO_13_R1_2006_06_Track06_wav_click.mp3" controls="" preload=""></audio>| 
 
 #### MIDI-UNPROCESSED_14-15_R1_2014_MID--AUDIO_15_R1_2014_wav--5 
+
 |Original|   Mix   |exMixABSM|exMixOSFQ| 
 |---|---|---|---| 
 |<audio src="Demo_mp3\ori\cut_MIDI-UNPROCESSED_14-15_R1_2014_MID--AUDIO_15_R1_2014_wav--5.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\Mix\cut_MIDI-UNPROCESSED_14-15_R1_2014_MID--AUDIO_15_R1_2014_wav--5_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\excludeMixABSM\cut_MIDI-UNPROCESSED_14-15_R1_2014_MID--AUDIO_15_R1_2014_wav--5_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\excludeMixOSFQ\cut_MIDI-UNPROCESSED_14-15_R1_2014_MID--AUDIO_15_R1_2014_wav--5_click.mp3" controls="" preload=""></audio>| 
 
 #### MIDI-Unprocessed_20_R1_2011_MID--AUDIO_R1-D8_04_Track04_wav 
+
 |Original|   Mix   |exMixABSM|exMixOSFQ| 
 |---|---|---|---| 
 |<audio src="Demo_mp3\ori\cut_MIDI-Unprocessed_20_R1_2011_MID--AUDIO_R1-D8_04_Track04_wav.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\Mix\cut_MIDI-Unprocessed_20_R1_2011_MID--AUDIO_R1-D8_04_Track04_wav_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\excludeMixABSM\cut_MIDI-Unprocessed_20_R1_2011_MID--AUDIO_R1-D8_04_Track04_wav_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\excludeMixOSFQ\cut_MIDI-Unprocessed_20_R1_2011_MID--AUDIO_R1-D8_04_Track04_wav_click.mp3" controls="" preload=""></audio>| 
