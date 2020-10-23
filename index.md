@@ -10,11 +10,11 @@ Beat/downbeat tracking have been fundamental and important topics in music infor
 
 The following demo shows the beat/downbeat predictions of four models, including:
 * Two basline models:
-    * Madmom: An open widely adopted library that provides beat/downbeat tracking API[1, 2].
-    * Mix: Our reproduced model for [2], trained from data with much shorter total duration, but including more classical data.
+    * ***Madmom***: An open widely adopted library that provides beat/downbeat tracking API[1, 2].
+    * ***Mix***: Our reproduced model for [2], trained from data with much shorter total duration, but including more classical data.
 * Two augmented models:
-    * exMixABSM: trained from non-drum stems and drum stems seleced by ABSM method.
-    * exMixOSFQ: trained from non-drum stems and drum stems seleced by OSFQ method.
+    * ***exMixABSM***: trained from non-drum stems and drum stems seleced by ABSM method.
+    * ***exMixOSFQ***: trained from non-drum stems and drum stems seleced by OSFQ method.
 
 #### Alexander Scriabin, Fantasy, Op. 28
 
@@ -66,6 +66,8 @@ The following demo shows the beat/downbeat predictions of four models, including
 ## Reference
 
 [1] S. B¨ock, F. Korzeniowski, J. Schl¨uter, F. Krebs, and G. Widmer, “Madmom: A new python audio and music signal processing library,” Proc. ACM Multimed. Conf., pp. 1174-1178, 2016.
+
 [2] S. B¨ock, F. Krebs, and G. Widmer, “Joint beat and downbeat tracking with recurrent neural networks,” Proc. Int. Soc. Music Inf. Retr. Conf., pp. 255–261, 2016.
+
 [3] C. Hawthorne et al., “Enabling factorized piano music modeling and generation with the Maestro dataset,” Proc. Int. Conf. Learning Representations, 2019.
                             
