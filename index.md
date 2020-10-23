@@ -8,7 +8,7 @@ Beat/downbeat tracking have been fundamental and important topics in music infor
 
 ## Demo audio
 
-The following demo shows the beat/downbeat predictions four models, including:
+The following demo shows the beat/downbeat predictions of four models, including:
 * Two basline models:
     * Madmom: An open widely adopted library that provides beat/downbeat tracking API[1, 2].
     * Mix: Our reproduced model for [2], trained from data with much shorter total duration, but including more classical data.
