@@ -53,6 +53,20 @@ The four models include:
 |---|---|---|---|---| 
 |<audio src="Demo_mp3\ori\cut_MIDI-Unprocessed_20_R1_2011_MID--AUDIO_R1-D8_04_Track04_wav.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\Madmom\cut_MIDI-Unprocessed_20_R1_2011_MID--AUDIO_R1-D8_04_Track04_wav_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\Mix\cut_MIDI-Unprocessed_20_R1_2011_MID--AUDIO_R1-D8_04_Track04_wav_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\excludeMixABSM\cut_MIDI-Unprocessed_20_R1_2011_MID--AUDIO_R1-D8_04_Track04_wav_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\excludeMixOSFQ\cut_MIDI-Unprocessed_20_R1_2011_MID--AUDIO_R1-D8_04_Track04_wav_click.mp3" controls="" preload=""></audio>|
 
+#### MIDI-Unprocessed_17_R2_2011_MID--AUDIO_R2-D5_06_Track06_wav
+
+|Original|Madmom|   Mix   |exMixABSM|exMixOSFQ|
+|---|---|---|---|---|
+|<audio src="Demo_mp3\ori\cut_MIDI-Unprocessed_17_R2_2011_MID--AUDIO_R2-D5_06_Track06_wav.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\Madmom\cut_MIDI-Unprocessed_17_R2_2011_MID--AUDIO_R2-D5_06_Track06_wav_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\Mix\cut_MIDI-Unprocessed_17_R2_2011_MID--AUDIO_R2-D5_06_Track06_wav_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\excludeMixABSM\cut_MIDI-Unprocessed_17_R2_2011_MID--AUDIO_R2-D5_06_Track06_wav_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\excludeMixOSFQ\cut_MIDI-Unprocessed_17_R2_2011_MID--AUDIO_R2-D5_06_Track06_wav_click.mp3" controls="" preload=""></audio>|
+
+#### MIDI-Unprocessed_20_R1_2011_MID--AUDIO_R1-D8_04_Track04_wav
+
+|Original|Madmom|   Mix   |exMixABSM|exMixOSFQ|
+|---|---|---|---|---|
+|<audio src="Demo_mp3\ori\cut_MIDI-Unprocessed_20_R1_2011_MID--AUDIO_R1-D8_04_Track04_wav.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\Madmom\cut_MIDI-Unprocessed_20_R1_2011_MID--AUDIO_R1-D8_04_Track04_wav_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\Mix\cut_MIDI-Unprocessed_20_R1_2011_MID--AUDIO_R1-D8_04_Track04_wav_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\excludeMixABSM\cut_MIDI-Unprocessed_20_R1_2011_MID--AUDIO_R1-D8_04_Track04_wav_click.mp3" controls="" preload=""></audio>|<audio src="Demo_mp3\excludeMixOSFQ\cut_MIDI-Unprocessed_20_R1_2011_MID--AUDIO_R1-D8_04_Track04_wav_click.mp3" controls="" preload=""></audio>|
+
+
+
 ## Table of the demo songs from Maestro[1]
 
 | Composer | Title | Year | File Name |
@@ -63,6 +77,10 @@ The four models include:
 |Schubert|Sonata in A D959|2006|2006/MIDI-Unprocessed_07_R2_2006_01_ORIG_MID--AUDIO_07_R2_2006_01_Track01_wav|
 |Chopin |Barcarolle|2006|2006/MIDI-Unprocessed_13_R1_2006_01-06_ORIG_MID--AUDIO_13_R1_2006_06_Track06_wav|
 |Beethoven|Sonata No. 23 in F Minor, Op. 57, First Movement| 2011|2011/MIDI-Unprocessed_20_R1_2011_MID--AUDIO_R1-D8_04_Track04_wav|
+|Johannes Brahms|Sonata 2 F-sharp Minor, Op. 2|2009|2009/MIDI-Unprocessed_15_R1_2009_01-02_ORIG_MID--AUDIO_15_R1_2009_15_R1_2009_02_WAV.wav|
+|Fritz Kreisler / Sergei Rachmaninoff|2011|2011/MIDI-Unprocessed_17_R2_2011_MID--AUDIO_R2-D5_06_Track06_wav.wav|
+
+
 
 ## Reference
 
